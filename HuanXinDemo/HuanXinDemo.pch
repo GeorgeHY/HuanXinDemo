@@ -1,0 +1,21 @@
+//
+//  HuanXinDemo.pch
+//  HuanXinDemo
+//
+//  Created by iwind on 15/5/29.
+//  Copyright (c) 2015年 HanYang. All rights reserved.
+//
+
+#ifndef HuanXinDemo_HuanXinDemo_pch
+#define HuanXinDemo_HuanXinDemo_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import "EaseMob.h"
+#import "UIViewController+HUD.h"
+#import "EMSDKFull.h"
+#import "ChatDemoUIDefine.h"
+
+
+#endif
